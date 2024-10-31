@@ -5,6 +5,12 @@ header
     background-color: red;
 }
 
+h1
+{
+    color: lightblue;
+    background-color: violet;
+}
+
 main
 {
     width: 100%;
